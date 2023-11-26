@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **flutter, firebase, nodejs**
 
-- 📫 How to reach me **3179806814@qq.com**
+- 📫 How to reach me **xiaoroseah@gmail.com**
 
 - 🐍 `print(random.choice(dev_quote))`
 </div>
