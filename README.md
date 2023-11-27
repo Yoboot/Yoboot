@@ -21,7 +21,7 @@
 
 
 - 🔭 I’m currently student
-- 🌱 I’m currently learning **golang**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **Flutter projects**
 
@@ -37,7 +37,7 @@
 <!-- 技术栈 -->
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=golang,css,html,js,vue,git,github,gitlab,linux,mongodb,mysql,nodejs,vscode&perline=10">
+  <img src="https://skillicons.dev/icons?i=golang,css,html,js,vue,git,github,gitlab,linux,mongodb,mysql,sql sever,nodejs&perline=10">
 </p>
 
 <!-- just img 图片![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DayLighty&layout=compact&theme=tokyonight) -->
